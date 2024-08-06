@@ -1,0 +1,445 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.navContent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    /* background-color: rgb(61, 84, 84); */
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: aquamarine; */
+    width: 95%;
+}
+.arrow{
+   display: inline;
+   background-color: white;
+   border-radius: 15px;
+}
+.navT{
+    color: white;
+    font-size: large;
+}
+.navT:hover{
+    cursor: pointer;
+}
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+}
+button{
+    height: 50px;
+    width: 130px;
+}
+button:hover{
+    cursor: pointer;
+}
+
+.Get{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 22px;
+}
+.Order{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border-radius: 22px;
+}
+.m{
+    visibility: hidden;
+}
+.wellcome-child{
+    color: white;
+}
+.wellcome{
+    color: white;
+}
+.parent-blacky{
+    background-color: black;
+    padding-top: 100px;
+}
+
+.child-head{
+    /* background-color: yellow; */
+    width: 50%;
+    text-align: center;
+
+}
+.order{
+color: white;
+border-radius: 50px;
+border-color: white;
+background-color: black;
+/* padding-top: 10px; */
+margin-top: 10px;
+}
+.salt{
+    color: white;
+}
+.franchise-small{
+    color: white;
+}
+.location-one{
+    color: white;
+}
+.call-one{
+    color: white;
+}
+.rest-one{
+    color: white;
+    font-size: x-large;
+    /* font-weight: bold; */
+    margin-left: 10px;
+}
+.islamabad{
+    color: white;
+}
+.button-one{
+    color: white;
+    background-color: black;
+    border-color: red;
+    border-radius: 20px;
+    width: 150px;
+    height: 50px;
+}
+.button-two-second{
+    color: white;
+    background-color: black;
+    border-color: red;
+    border-radius: 25px;
+    width: 100px;
+    height: 30px;
+}
+.salt{
+    text-align: center;
+}
+.express-franchices{
+    color: white;
+}
+.parent-slider{
+    width: 100%;
+}
+.emporium{
+    color: red;
+}
+.expprs{
+    color: white;
+}   
+.food-court{
+    color: white;
+}
+.ph{
+    color: white;
+}
+.Gujranwala{
+    color: red;
+}
+.sargodha{
+    color: red;
+}
+.directions-2{
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    border-color: red;
+    font-family: cursive;
+    width: 200px;
+}
+.Jhelum{
+    color: white;
+}
+.Faisal-Town{
+    color: white;
+}
+.DHA{
+    color: white;
+}
+.Gujrat{
+    color: white;
+}
+.Sahiwal{
+    color: white;
+}
+.village-franchise{
+    color: white;
+}
+.GUJRANWALA{
+    color: red;
+}
+.directions-3{
+    background-color: green;
+    color: white;
+    border-color: green;
+    border-radius: 30px;
+    width: 200px;
+
+}
+.btn-direction-3{
+    color: white;
+    background-color: white;
+    border-radius: 50px;
+}
+.Express-Franchises{
+    color: white;
+}
+.mrgn-img{
+    border-radius: 100px;
+}
+.social-head{
+    color: white;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+}
+.footer-parent{
+    background-color: aquamarine;
+    height: 500px;
+}
+.footer-first-child{
+    background-color: burlywood;
+    width: 30%;
+    height: 250px;
+}
+.unnamed-img{
+    width: 35%;
+}
+ul{
+    list-style: none;
+}
+.footer-second-child{
+    background-color: blueviolet;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 200px;
+}
+.site-links{
+    font-size: large;
+    font-weight: 700;
+    color: white;
+}
+.footer-third-child{
+    background-color: brown;
+    width: 300px;
+    height: 300px;
+}
+.fourth-child{
+    background-color: chartreuse;
+    padding-left: 100px;
+    height: 200px;
+}
+.footer-para{
+    color: white;
+}
+li{
+    color: white;
+}
+h5{
+    color: white;
+}
+.contact{
+    color: white;
+    font-size: large;
+    font-weight: 700;
+}
+.follow{
+    color: white;
+    font-size: large;
+    font-weight: 700;
+}
+/* .footer-parent{
+    background-color: red;
+}
+.footer-first-child{
+    background-color: blue;
+}
+.footer-second-child{
+    background-color: aqua;
+} */
+.saltnpepper-para{
+    color: white;
+    text-align: center;
+}
+.footer{
+    margin-top: 30px;
+    
+    height: 1000px;
+}
+.button-chanching{
+    background-color: black;
+    color: white;
+    border-color: red;
+    border-radius: 30px;
+    width: 150px;
+}
+.arrow-changing{
+    height: 25px;
+}
+.footer-parent{
+    border-top: 5px solid grey;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 319px) and (max-width: 374px) {
+    .navT{
+        display: none;
+    }
+    .Get{
+        display: none;
+    }
+    .logo{
+        width: 130px;
+    }
+    button{
+        height: 30px;
+        width: 90px;
+        font-size: 12px;
+    }
+    .arrow{
+        display: none;
+    }
+    .navContent{
+        width: 99%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .right{
+        width: 30%;
+    }
+    .m{
+        visibility: visible;
+    }
+    .village-img{
+        height: 200px;
+        width: 270px;
+    }
+    .mrgn-img{
+        width: 120px;
+
+    }
+    .imgs{
+        width: 300px;
+    }
+    .imgs-2{
+        width: 300px;
+    }
+}
+
+@media screen and (min-width: 375px) and (max-width: 424px) {
+    .navT{
+        display: none;
+    }
+    .Get{
+        display: none;
+    }
+    .logo{
+        width: 160px;
+    }
+    button{
+        height: 40px;
+        width: 100px;
+        font-size: 14px;
+    }
+    .arrow{
+        display: none;
+    }
+    .navContent{
+        width: 99%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .right{
+        width: 30%;
+    }
+    .m{
+        visibility: visible;
+    }
+    .village-img{
+        height: 200px;
+        width: 270px;
+    }
+}
+
+@media screen and (min-width: 425px) and (max-width: 767px) {
+    .navT{
+        display: none;
+    }
+    .Get{
+        display: none;
+    }
+    .logo{
+        width: 180px;
+    }
+    button{
+        height: 40px;
+        width: 150px;
+        font-size: 15px;
+    }
+    .arrow{
+        display: none;
+    }
+    .navContent{
+        width: 99%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .right{
+        width: 22%;
+    }
+    .m{
+        visibility: visible;
+    }
+    .village-img{
+        height: 200px;
+        width: 270px;
+    }
+    .faisalabad-img{
+        width: 500px;
+    }
+}
+@media screen and (min-width: 1020px) and (max-width: 2500px){
+    .faisalabad-img{
+        width: 500px;
+    }
+
+
+
+
+
+}
+@media screen and (min-width: 2500px) and (max-width: 3050px){
+    .faisalabad-img{
+        width: 500px;
+    }
+}
+@media screen and (min-width: 325px) and (max-width: 525px){
+    .faisalabad-img{
+        width: 400px;
+    }
+}
